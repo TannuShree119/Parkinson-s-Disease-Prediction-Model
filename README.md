@@ -19,6 +19,8 @@ Now the dataset was split into training and testing sets, and the features are s
 ## Model Training
 A Support Vector Machine (SVM) model with a linear kernel was trained on the standardized training data
 
+![image_2024-04-19_151625376](https://github.com/TannuShree119/Parkinsons-Disease-Prediction-Model/assets/159888826/c609fe5e-d188-4fc9-b0f1-982c591067f9)
+
 ## Model Evaluation
 The performance of the trained SVM model was evaluated using the accuracy score and a confusion matrix
 
