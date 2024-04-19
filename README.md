@@ -32,6 +32,7 @@ A predictive system was built where an example input data was standardized and u
 
  Here is the preview of the application:
 
- 
+ ![image_2024-04-19_152054873](https://github.com/TannuShree119/Parkinsons-Disease-Prediction-Model/assets/159888826/4bcd8df0-c286-4665-b95c-b25fe1803a6d)
+
 
 
