@@ -1,1 +1,1 @@
-# Parkinson-s-Disease-Prediction-Model
+# Parkinsons-Disease-Prediction-Model
